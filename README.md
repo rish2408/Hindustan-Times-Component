@@ -1,7 +1,10 @@
 # Hindustan-Times-Component
 I have created basic components in Hindustan-Times Website such as E-Paper, Sign-Up Page and Navbar.
 
-## Link 
+## Landing Page
+![Hindustan-Times](https://user-images.githubusercontent.com/36689521/190002117-75906552-4883-418d-bb39-960c2c862166.png)
+
+## Components
 https://peaceful-raindrop-c18087.netlify.app/
 
 ### Screenshots
